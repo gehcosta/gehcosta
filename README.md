@@ -1,5 +1,4 @@
 <h1> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJkYTI3NGJlZjUwOWRiM2FlZmE4MmEwOGQyODMwODk0N2QwMTE1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l7zAgIcCdmjXWtrNH7/giphy.gif" width="50px"> Hi! I'm Geovanne</h1>
-<img align="right" src="https://cdn.discordapp.com/attachments/551472306006786085/1117939246704119908/image.png" width="350"/> 
 
 I'm studying to become a mobile developer, and I will graduate in Computer Engineering.
 
