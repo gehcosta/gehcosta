@@ -3,7 +3,7 @@
   Hi, I'm Geovanne!
 </h1>
 
-I’m a **Computer Engineer** with a passion for developing **innovative software solutions**. I enjoy working on projects that combine **problem-solving, creativity, and technology** to create meaningful impact.
+I’m a **Computer Engineer**, currently pursuing a postgraduate degree in **.NET Systems Architecture**, with a passion for developing innovative software solutions. I enjoy working on projects that combine problem-solving, creativity, and technology to create meaningful impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/geovannehc/)](https://www.linkedin.com/in/geovannehc/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:geovannehc@gmail.com)](mailto:geovannehc@gmail.com)
